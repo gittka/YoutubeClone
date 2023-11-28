@@ -1,2 +1,2 @@
 # YoutubeClone
-Youtube Clone with Speing Boot and Angular
+Youtube Clone with Spring Boot and Angular
